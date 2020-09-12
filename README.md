@@ -1,2 +1,1 @@
 # EmployeeSQL
-SQL
